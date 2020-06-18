@@ -1,6 +1,6 @@
 MacInfoPkg
 ==========
-This repo is forked from https://github.com/acidanthera/MacInfoPkg. I make some revises to it and upgrade to 2.1.3.
+This repo is forked from https://github.com/acidanthera/MacInfoPkg. I made some revises to it and upgrade to 2.1.3.
 
 1. Support generate MAC.
 2. Random "Board Code" and "Mode Code".
